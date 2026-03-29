@@ -9,6 +9,9 @@ Clone and reference the project, or copy what you need.
 - **StringExtensions** — Truncate, slug generation, email validation
 - **DateTimeHelpers** — Relative time, business days, date ranges
 - **FileUtils** — Safe file ops, temp files, size formatting
+- **CollectionExtensions** — Chunk, shuffle, safe dictionary conversion
+- **Guard** — Argument validation helpers (null checks, range checks)
+- **Retry** — Retry logic with exponential backoff for sync and async
 
 ## Usage
 
