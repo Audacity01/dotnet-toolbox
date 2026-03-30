@@ -12,6 +12,9 @@ Clone and reference the project, or copy what you need.
 - **CollectionExtensions** — Chunk, shuffle, safe dictionary conversion
 - **Guard** — Argument validation helpers (null checks, range checks)
 - **Retry** — Retry logic with exponential backoff for sync and async
+- **HttpHelper** — Typed GET/POST, reachability check, query string builder
+- **EnumHelper** — Parse, get description, list values, to dictionary
+- **NumberExtensions** — Clamp, ordinals, percentage formatting, range checks
 
 ## Usage
 
