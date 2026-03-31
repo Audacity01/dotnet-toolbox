@@ -15,6 +15,9 @@ Clone and reference the project, or copy what you need.
 - **HttpHelper** — Typed GET/POST, reachability check, query string builder
 - **EnumHelper** — Parse, get description, list values, to dictionary
 - **NumberExtensions** — Clamp, ordinals, percentage formatting, range checks
+- **JsonHelper** — Serialize, safe deserialize, validate, merge JSON objects
+- **CryptoHelper** — SHA256/MD5 hashing, token generation, base64, API keys
+- **DictionaryExtensions** — GetOrDefault, GetOrAdd, AddRange, Invert
 
 ## Usage
 
