@@ -18,6 +18,9 @@ Clone and reference the project, or copy what you need.
 - **JsonHelper** — Serialize, safe deserialize, validate, merge JSON objects
 - **CryptoHelper** — SHA256/MD5 hashing, token generation, base64, API keys
 - **DictionaryExtensions** — GetOrDefault, GetOrAdd, AddRange, Invert
+- **ValidationHelper** — URL, phone, password strength, IP address, credit card (Luhn)
+- **MathHelper** — Average, median, std deviation, factorial, GCD/LCM, prime check
+- **DateTimeExtensions** — IsToday, IsWeekday, EndOfDay, StartOfMonth, Age, NextWeekday
 
 ## Usage
 
