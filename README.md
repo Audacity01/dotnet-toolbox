@@ -21,6 +21,9 @@ Clone and reference the project, or copy what you need.
 - **ValidationHelper** — URL, phone, password strength, IP address, credit card (Luhn)
 - **MathHelper** — Average, median, std deviation, factorial, GCD/LCM, prime check
 - **DateTimeExtensions** — IsToday, IsWeekday, EndOfDay, StartOfMonth, Age, NextWeekday
+- **SimpleConfig** — Key-value config file reader/writer with typed getters
+- **StopwatchHelper** — Measure execution time, lap tracking, performance reports
+- **Result\<T\>** — Railway-oriented error handling (Ok/Fail, Map, Bind)
 
 ## Usage
 
